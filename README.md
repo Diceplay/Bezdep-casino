@@ -113,7 +113,6 @@
 <blockquote><p>Фриспины используются только в слотах. Для других азартных развлечений они недоступны.</p></blockquote>
 <h3>Участие в турнирах</h3>
 <p>Иногда в качестве бездепа пользователи получают доступ к эксклюзивным мероприятиям, в том числе турнирам. Игроки делают ставки в конкретных аппаратах. В процессе формируется турнирная таблица. Призовой фонд распределяется между ее лидерами.</p>
-<figure id="attachment_5062502" aria-describedby="caption-attachment-5062502" style="width: 750px" class="wp-caption aligncenter"><img decoding="async" class="wp-image-5062502 size-full lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" alt="Турниры" width="750" height="318"  sizes="(max-width: 750px) 100vw, 750px" /><figcaption id="caption-attachment-5062502" class="wp-caption-text">Турниры в казино</figcaption></figure>
 <h2>Особенности бездепа</h2>
 <p>Онлайн казино без депозита с игровыми автоматами дают бонусы на конкретных условиях. Их нужно анализировать перед активацией промо.</p>
 <h3>Условия получения</h3>
